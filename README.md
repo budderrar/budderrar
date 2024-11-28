@@ -1,4 +1,4 @@
-- 👋 Hi, I’m ahmed
+- 👋 Hi, I’m Ahmed Nasser
 - 👀 I’m interested in web development currently focusing on frontend development
 - 🌱 I’m currently learning how to implement my learning into real projects
 - 💞️ I’m looking to collaborate on projects that will let me show my skills and challenge myself
